@@ -1,0 +1,70 @@
+﻿sp0,zp0,pic0,tone0,phonation0,sp1,zp1,pic1,tone1,phonation1,path,length,glposition,glportion,gltype,f0_onset,f0_offset,correct_answer,seq,status
+cesta,ga',image/cesta.png,R,C,nueve,ga,image/nueve.png,R,M,dissertation_sound/practice/basket_extract_recale_int.wav,NA,NA,NA,NA,NA,NA,ga',1,practice
+pesado,zi'i,image/pesado.png,H,R,dolor,zi',image/dolor.png,H,C,dissertation_sound/practice/heavy_extract_recale_int.wav,NA,NA,NA,NA,NA,NA,zi'i,2,practice
+cesta,ga',image/cesta.png,R,C,nueve,ga,image/nueve.png,R,M,dissertation_sound/practice/nine_extract_recale_int.wav,NA,NA,NA,NA,NA,NA,ga,3,practice
+pesado,zi'i,image/pesado.png,H,R,dolor,zi',image/dolor.png,H,C,dissertation_sound/practice/pain_extract_recale_int.wav,NA,NA,NA,NA,NA,NA,zi',4,practice
+diez,chi,image/diez.png,R,M,voz,chi'i,image/voz.png,R,R,dissertation_sound/practice/ten_extract_recale_int.wav,NA,NA,NA,NA,NA,NA,chi,5,practice
+diez,chi,image/diez.png,R,M,voz,chi'i,image/voz.png,R,R,dissertation_sound/practice/voice_extract_recale_int.wav,NA,NA,NA,NA,NA,NA,chi'i,6,practice
+fierro,ya,image/fierro.png,R,M,plaza,ya'a,image/plaza.png,R,R,dissertation_sound/practice/fierro_extract_recale_int.wav,NA,NA,NA,NA,NA,NA,ya,7,practice
+fierro,ya,image/fierro.png,R,M,plaza,ya'a,image/plaza.png,R,R,dissertation_sound/practice/plaza_extract_recale_int.wav,NA,NA,NA,NA,NA,NA,ya'a,8,practice
+cesta,ga',image/cesta.png,R,C,nueve,ga,image/nueve.png,R,M,dissertation_sound/exp1/ga-vowel-original_150_100_140_pitch_manipulated_withconsonant.wav,150,0,NA,NA,100,140,NA,9,ga
+cesta,ga',image/cesta.png,R,C,nueve,ga,image/nueve.png,R,M,dissertation_sound/exp1/ga-vowel-original_150_100_140_pitch_manipulated_withconsonant_breathy.wav,150,0,NA,breathy,100,140,NA,10,ga
+cesta,ga',image/cesta.png,R,C,nueve,ga,image/nueve.png,R,M,dissertation_sound/exp1/ga-vowel-original_150_100_140_pitch_manipulated_withconsonant_breathy_gl_5_5.wav,150,5,one fifth,breathy,100,140,NA,11,ga
+cesta,ga',image/cesta.png,R,C,nueve,ga,image/nueve.png,R,M,dissertation_sound/exp1/ga-vowel-original_150_100_140_pitch_manipulated_withconsonant_gl_5_5.wav,150,5,one fifth,strong,100,140,NA,12,ga
+cesta,ga',image/cesta.png,R,C,nueve,ga,image/nueve.png,R,M,dissertation_sound/exp1/ga-vowel-original_225_100_140_pitch_manipulated_withconsonant.wav,225,0,NA,NA,100,140,NA,13,ga
+cesta,ga',image/cesta.png,R,C,nueve,ga,image/nueve.png,R,M,dissertation_sound/exp1/ga-vowel-original_225_100_140_pitch_manipulated_withconsonant_breathy.wav,225,0,NA,breathy,100,140,NA,14,ga
+cesta,ga',image/cesta.png,R,C,nueve,ga,image/nueve.png,R,M,dissertation_sound/exp1/ga-vowel-original_225_100_140_pitch_manipulated_withconsonant_breathy_gl_5_5.wav,225,5,one fifth,breathy,100,140,NA,15,ga
+cesta,ga',image/cesta.png,R,C,nueve,ga,image/nueve.png,R,M,dissertation_sound/exp1/ga-vowel-original_225_100_140_pitch_manipulated_withconsonant_gl_5_5.wav,225,5,one fifth,strong,100,140,NA,16,ga
+cesta,ga',image/cesta.png,R,C,nueve,ga,image/nueve.png,R,M,dissertation_sound/exp1/ga-vowel-original_300_100_140_pitch_manipulated_withconsonant.wav,300,0,NA,NA,100,140,NA,17,ga
+cesta,ga',image/cesta.png,R,C,nueve,ga,image/nueve.png,R,M,dissertation_sound/exp1/ga-vowel-original_300_100_140_pitch_manipulated_withconsonant_breathy.wav,300,0,NA,breathy,100,140,NA,18,ga
+cesta,ga',image/cesta.png,R,C,nueve,ga,image/nueve.png,R,M,dissertation_sound/exp1/ga-vowel-original_300_100_140_pitch_manipulated_withconsonant_breathy_gl_5_5.wav,300,5,one fifth,breathy,100,140,NA,19,ga
+cesta,ga',image/cesta.png,R,C,nueve,ga,image/nueve.png,R,M,dissertation_sound/exp1/ga-vowel-original_300_100_140_pitch_manipulated_withconsonant_gl_5_5.wav,300,5,one fifth,strong,100,140,NA,20,ga
+cesta,ga',image/cesta.png,R,C,nueve,ga,image/nueve.png,R,M,dissertation_sound/exp1/ga-vowel-original_350_100_140_pitch_manipulated_withconsonant.wav,350,0,NA,NA,100,140,NA,21,ga
+cesta,ga',image/cesta.png,R,C,nueve,ga,image/nueve.png,R,M,dissertation_sound/exp1/ga-vowel-original_350_100_140_pitch_manipulated_withconsonant_breathy.wav,350,0,NA,breathy,100,140,NA,22,ga
+cesta,ga',image/cesta.png,R,C,nueve,ga,image/nueve.png,R,M,dissertation_sound/exp1/ga-vowel-original_350_100_140_pitch_manipulated_withconsonant_breathy_gl_5_5.wav,350,5,one fifth,breathy,100,140,NA,23,ga
+cesta,ga',image/cesta.png,R,C,nueve,ga,image/nueve.png,R,M,dissertation_sound/exp1/ga-vowel-original_350_100_140_pitch_manipulated_withconsonant_gl_5_5.wav,350,5,one fifth,strong,100,140,NA,24,ga
+pesado,zi'i,image/pesado.png,H,R,dolor,zi',image/dolor.png,H,C,dissertation_sound/exp1/zi-concatenated_change_int_150_130_140_pitch_manipulated_1_2_gl_good_portion_withconsonant.wav,150,1,half,strong,130,140,NA,25,zi
+pesado,zi'i,image/pesado.png,H,R,dolor,zi',image/dolor.png,H,C,dissertation_sound/exp1/zi-concatenated_change_int_150_130_140_pitch_manipulated_1_3_gl_good_portion_withconsonant.wav,150,1,one third,strong,130,140,NA,26,zi
+pesado,zi'i,image/pesado.png,H,R,dolor,zi',image/dolor.png,H,C,dissertation_sound/exp1/zi-concatenated_change_int_150_130_140_pitch_manipulated_1_5_gl_good_portion_withconsonant.wav,150,1,one fifth,strong,130,140,NA,27,zi
+pesado,zi'i,image/pesado.png,H,R,dolor,zi',image/dolor.png,H,C,dissertation_sound/exp1/zi-concatenated_change_int_150_130_140_pitch_manipulated_2_2_gl_good_portion_withconsonant.wav,150,2,half,strong,130,140,NA,28,zi
+pesado,zi'i,image/pesado.png,H,R,dolor,zi',image/dolor.png,H,C,dissertation_sound/exp1/zi-concatenated_change_int_150_130_140_pitch_manipulated_2_5_gl_good_portion_withconsonant.wav,150,2,one fifth,strong,130,140,NA,29,zi
+pesado,zi'i,image/pesado.png,H,R,dolor,zi',image/dolor.png,H,C,dissertation_sound/exp1/zi-concatenated_change_int_150_130_140_pitch_manipulated_3_3_gl_good_portion_withconsonant.wav,150,3,one third,strong,130,140,NA,30,zi
+pesado,zi'i,image/pesado.png,H,R,dolor,zi',image/dolor.png,H,C,dissertation_sound/exp1/zi-concatenated_change_int_150_130_140_pitch_manipulated_3_5_gl_good_portion_withconsonant.wav,150,3,one fifth,strong,130,140,NA,31,zi
+pesado,zi'i,image/pesado.png,H,R,dolor,zi',image/dolor.png,H,C,dissertation_sound/exp1/zi-concatenated_change_int_150_130_140_pitch_manipulated_4_5_gl_good_portion_withconsonant.wav,150,4,one fifth,strong,130,140,NA,32,zi
+pesado,zi'i,image/pesado.png,H,R,dolor,zi',image/dolor.png,H,C,dissertation_sound/exp1/zi-concatenated_change_int_150_130_140_pitch_manipulated_5_5_gl_good_portion_withconsonant.wav,150,5,one fifth,strong,130,140,NA,33,zi
+pesado,zi'i,image/pesado.png,H,R,dolor,zi',image/dolor.png,H,C,dissertation_sound/exp1/zi-concatenated_change_int_225_130_140_pitch_manipulated_1_2_gl_good_portion_withconsonant.wav,225,1,half,strong,130,140,NA,34,zi
+pesado,zi'i,image/pesado.png,H,R,dolor,zi',image/dolor.png,H,C,dissertation_sound/exp1/zi-concatenated_change_int_225_130_140_pitch_manipulated_1_3_gl_good_portion_withconsonant.wav,225,1,one third,strong,130,140,NA,35,zi
+pesado,zi'i,image/pesado.png,H,R,dolor,zi',image/dolor.png,H,C,dissertation_sound/exp1/zi-concatenated_change_int_225_130_140_pitch_manipulated_1_5_gl_good_portion_withconsonant.wav,225,1,one fifth,strong,130,140,NA,36,zi
+pesado,zi'i,image/pesado.png,H,R,dolor,zi',image/dolor.png,H,C,dissertation_sound/exp1/zi-concatenated_change_int_225_130_140_pitch_manipulated_2_2_gl_good_portion_withconsonant.wav,225,2,half,strong,130,140,NA,37,zi
+pesado,zi'i,image/pesado.png,H,R,dolor,zi',image/dolor.png,H,C,dissertation_sound/exp1/zi-concatenated_change_int_225_130_140_pitch_manipulated_2_5_gl_good_portion_withconsonant.wav,225,2,one fifth,strong,130,140,NA,38,zi
+pesado,zi'i,image/pesado.png,H,R,dolor,zi',image/dolor.png,H,C,dissertation_sound/exp1/zi-concatenated_change_int_225_130_140_pitch_manipulated_3_3_gl_good_portion_withconsonant.wav,225,3,one third,strong,130,140,NA,39,zi
+pesado,zi'i,image/pesado.png,H,R,dolor,zi',image/dolor.png,H,C,dissertation_sound/exp1/zi-concatenated_change_int_225_130_140_pitch_manipulated_3_5_gl_good_portion_withconsonant.wav,225,3,one fifth,strong,130,140,NA,40,zi
+pesado,zi'i,image/pesado.png,H,R,dolor,zi',image/dolor.png,H,C,dissertation_sound/exp1/zi-concatenated_change_int_225_130_140_pitch_manipulated_4_5_gl_good_portion_withconsonant.wav,225,4,one fifth,strong,130,140,NA,41,zi
+pesado,zi'i,image/pesado.png,H,R,dolor,zi',image/dolor.png,H,C,dissertation_sound/exp1/zi-concatenated_change_int_225_130_140_pitch_manipulated_5_5_gl_good_portion_withconsonant.wav,225,5,one fifth,strong,130,140,NA,42,zi
+pesado,zi'i,image/pesado.png,H,R,dolor,zi',image/dolor.png,H,C,dissertation_sound/exp1/zi-concatenated_change_int_300_130_140_pitch_manipulated_1_2_gl_good_portion_withconsonant.wav,300,1,half,strong,130,140,NA,43,zi
+pesado,zi'i,image/pesado.png,H,R,dolor,zi',image/dolor.png,H,C,dissertation_sound/exp1/zi-concatenated_change_int_300_130_140_pitch_manipulated_1_3_gl_good_portion_withconsonant.wav,300,1,one third,strong,130,140,NA,44,zi
+pesado,zi'i,image/pesado.png,H,R,dolor,zi',image/dolor.png,H,C,dissertation_sound/exp1/zi-concatenated_change_int_300_130_140_pitch_manipulated_1_5_gl_good_portion_withconsonant.wav,300,1,one fifth,strong,130,140,NA,45,zi
+pesado,zi'i,image/pesado.png,H,R,dolor,zi',image/dolor.png,H,C,dissertation_sound/exp1/zi-concatenated_change_int_300_130_140_pitch_manipulated_2_2_gl_good_portion_withconsonant.wav,300,2,half,strong,130,140,NA,46,zi
+pesado,zi'i,image/pesado.png,H,R,dolor,zi',image/dolor.png,H,C,dissertation_sound/exp1/zi-concatenated_change_int_300_130_140_pitch_manipulated_2_5_gl_good_portion_withconsonant.wav,300,2,one fifth,strong,130,140,NA,47,zi
+pesado,zi'i,image/pesado.png,H,R,dolor,zi',image/dolor.png,H,C,dissertation_sound/exp1/zi-concatenated_change_int_300_130_140_pitch_manipulated_3_3_gl_good_portion_withconsonant.wav,300,3,one third,strong,130,140,NA,48,zi
+pesado,zi'i,image/pesado.png,H,R,dolor,zi',image/dolor.png,H,C,dissertation_sound/exp1/zi-concatenated_change_int_300_130_140_pitch_manipulated_3_5_gl_good_portion_withconsonant.wav,300,3,one fifth,strong,130,140,NA,49,zi
+pesado,zi'i,image/pesado.png,H,R,dolor,zi',image/dolor.png,H,C,dissertation_sound/exp1/zi-concatenated_change_int_300_130_140_pitch_manipulated_4_5_gl_good_portion_withconsonant.wav,300,4,one fifth,strong,130,140,NA,50,zi
+pesado,zi'i,image/pesado.png,H,R,dolor,zi',image/dolor.png,H,C,dissertation_sound/exp1/zi-concatenated_change_int_300_130_140_pitch_manipulated_5_5_gl_good_portion_withconsonant.wav,300,5,one fifth,strong,130,140,NA,51,zi
+fierro,ya,image/fierro.png,R,M,plaza,ya'a,image/plaza.png,R,R,dissertation_sound/exp1/yaa_fierro_original_150_90_130_pitch_manipulated_1_2_gl_withconsonant.wav,150,1,half,strong,90,130,NA,52,ya
+fierro,ya,image/fierro.png,R,M,plaza,ya'a,image/plaza.png,R,R,dissertation_sound/exp1/yaa_fierro_original_150_90_130_pitch_manipulated_1_3_gl_withconsonant.wav,150,1,one third,strong,90,130,NA,53,ya
+fierro,ya,image/fierro.png,R,M,plaza,ya'a,image/plaza.png,R,R,dissertation_sound/exp1/yaa_fierro_original_150_90_130_pitch_manipulated_1_5_gl_withconsonant.wav,150,1,one fifth,strong,90,130,NA,54,ya
+fierro,ya,image/fierro.png,R,M,plaza,ya'a,image/plaza.png,R,R,dissertation_sound/exp1/yaa_fierro_original_150_90_130_pitch_manipulated_3_5_gl_weakgl_withconsonant.wav,150,3,one fifth,weak,90,130,NA,55,ya
+fierro,ya,image/fierro.png,R,M,plaza,ya'a,image/plaza.png,R,R,dissertation_sound/exp1/yaa_fierro_original_150_90_130_pitch_manipulated_3_5_gl_withconsonant.wav,150,3,one fifth,strong,90,130,NA,56,ya
+fierro,ya,image/fierro.png,R,M,plaza,ya'a,image/plaza.png,R,R,dissertation_sound/exp1/yaa_fierro_original_150_90_130_pitch_manipulated_modal.wav,150,0,NA,NA,90,130,NA,57,ya
+fierro,ya,image/fierro.png,R,M,plaza,ya'a,image/plaza.png,R,R,dissertation_sound/exp1/yaa_fierro_original_225_90_130_pitch_manipulated_1_2_gl_withconsonant.wav,225,1,half,strong,90,130,NA,58,ya
+fierro,ya,image/fierro.png,R,M,plaza,ya'a,image/plaza.png,R,R,dissertation_sound/exp1/yaa_fierro_original_225_90_130_pitch_manipulated_1_3_gl_withconsonant.wav,225,1,one third,strong,90,130,NA,59,ya
+fierro,ya,image/fierro.png,R,M,plaza,ya'a,image/plaza.png,R,R,dissertation_sound/exp1/yaa_fierro_original_225_90_130_pitch_manipulated_1_5_gl_withconsonant.wav,225,1,one fifth,strong,90,130,NA,60,ya
+fierro,ya,image/fierro.png,R,M,plaza,ya'a,image/plaza.png,R,R,dissertation_sound/exp1/yaa_fierro_original_225_90_130_pitch_manipulated_3_5_gl_weakgl_withconsonant.wav,225,3,one fifth,weak,90,130,NA,61,ya
+fierro,ya,image/fierro.png,R,M,plaza,ya'a,image/plaza.png,R,R,dissertation_sound/exp1/yaa_fierro_original_225_90_130_pitch_manipulated_3_5_gl_withconsonant.wav,225,3,one fifth,strong,90,130,NA,62,ya
+fierro,ya,image/fierro.png,R,M,plaza,ya'a,image/plaza.png,R,R,dissertation_sound/exp1/yaa_fierro_original_225_90_130_pitch_manipulated_modal.wav,225,0,NA,NA,90,130,NA,63,ya
+fierro,ya,image/fierro.png,R,M,plaza,ya'a,image/plaza.png,R,R,dissertation_sound/exp1/yaa_fierro_original_300_90_130_pitch_manipulated_1_2_gl_withconsonant.wav,300,1,half,strong,90,130,NA,64,ya
+fierro,ya,image/fierro.png,R,M,plaza,ya'a,image/plaza.png,R,R,dissertation_sound/exp1/yaa_fierro_original_300_90_130_pitch_manipulated_1_3_gl_withconsonant.wav,300,1,one third,strong,90,130,NA,65,ya
+fierro,ya,image/fierro.png,R,M,plaza,ya'a,image/plaza.png,R,R,dissertation_sound/exp1/yaa_fierro_original_300_90_130_pitch_manipulated_1_5_gl_withconsonant.wav,300,1,one fifth,strong,90,130,NA,66,ya
+fierro,ya,image/fierro.png,R,M,plaza,ya'a,image/plaza.png,R,R,dissertation_sound/exp1/yaa_fierro_original_300_90_130_pitch_manipulated_3_5_gl_weakgl_withconsonant.wav,300,3,one fifth,weak,90,130,NA,67,ya
+fierro,ya,image/fierro.png,R,M,plaza,ya'a,image/plaza.png,R,R,dissertation_sound/exp1/yaa_fierro_original_300_90_130_pitch_manipulated_3_5_gl_withconsonant.wav,300,3,one fifth,strong,90,130,NA,68,ya
+fierro,ya,image/fierro.png,R,M,plaza,ya'a,image/plaza.png,R,R,dissertation_sound/exp1/yaa_fierro_original_300_90_130_pitch_manipulated_modal.wav,300,0,NA,NA,90,130,NA,69,ya

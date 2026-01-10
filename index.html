@@ -4,7 +4,7 @@
     <meta charset=utf-8>
     
 
-    <title>Identification task</title>
+    <title>Chhin</title>
     <!-- download jquery on local computer so you can access it offline -->
     
     <script src="jquery.min.js"></script>
@@ -19,14 +19,13 @@
     
     <div id="startholderdiv">
       <p>
-        ¡Bienvenido!
-        Este estudio consta de dos experimentos. <br><br>
-        El primer experimento consiste en escuchar grabaciones de audio y seleccionar la palabra zapoteca que escuchaste. <br><br>
-        El segundo experimento consiste en leer palabras en zapoteco.      
+        Na wzenago bale diccha xichha. <br><br>
+        Youxna wchicho dichha xichha benlo. 
+        <!--Escucharás algunas palabras en zapoteco. Luego, elige la palabra que escuchas.-->
       </p>     
       <div id = "startholderButtondiv">
       <button id="startholderExperimentButton">
-        Haz clic aquí para comenzar.
+        Na solawchho!
       </button>
       </div>
     </div>
@@ -70,7 +69,7 @@
 
     <div id = "donePracticeI">
       <p>
-      Fin de la práctica.<br>
+      Fin de la práctica.<br>?
       Comenzarás el Experimento I. Consta de dos partes. Cada parte tiene cuarenta preguntas.
       </p>
       <div id = "EndPracticeButtondiv">
@@ -95,66 +94,22 @@
       </div>
     </div>
     
-    <div id = "donePracticeII">
-      <p>
-      练习到此结束。下面实验正式开始。实验二共有两部分，每部分二十题。
-      </p>
-      <div id = "EndPracticeIIButtondiv">
-      <button id="EndPracticeIIButton">
-        点击此处开始实验二 第一部分
-      </button>
-      </div>
-    </div>
-    
 
-    <div id = "doneExperimentIIPartI">
-      <p>
-      实验二 第一部分到此结束
-      </p>
-      <div id = "EndExperimentIIPartIButtondiv">
-      <button id="EndExperimentIIPartIButton">
-        点击此处开始实验二 第二部分
-      </button>
-      </div>
-    </div>
 
-    
-    <div id = "doneExperimentII">
-      <p>
-      实验二到此结束
-      </p>
-      <div id = "EndExperimentIIButtondiv">
-      <button id="EndExperimentIIButton">
-        点击此处开始实验三
-      </button>
-      </div>
-    </div>
-     
-    
-    <div id="instructions2">
-      <p>
-        实验二 <br><br>
-        您将会听到一个用霞浦话讲的词。这个词的第二个字被噪音覆盖了。在录音中您会听到每个词的第一个字。每一题中您会看到两个选项。您需要通过听到的第一个字来判断原本的词是什么。<br> <br>
-        您可以点击“重播”按钮来多次播放录音，重复播放录音的次数没有限制。<br><br>
-        请先做四个练习题。
-      </p>
-      <div id = "startIIButtondiv">
-      <button id="startExperimentIIButton">
-        点击此处开始练习
-      </button>
-      </div>
-    </div>
 
 
     <div id="instructionProductiondiv">
        <p>
-        Experimento II <br><br>
-        A continuación, verá una palabra en la pantalla.
-        Por favor diga la palabra en zapoteco.
+        Leelchho diccha xichha.
+
+        Nano' dichha xichha chone chii.   
+        
+        
+        <!-- Habla tres veces -->
       </p>
       <div id = "startProductiondiv">
       <button id="startProductiondivButton">
-        Haga clic aquí para iniciar el Experimento II
+        Na solawchho!
             </button>
       </div>
     </div>
@@ -170,11 +125,11 @@
 
     <div id = "ProductionTextDiv">
       <p style="text-align:center;">
-           Por favor di esto en zapoteco:
+          Nano' dichha xichha chone chii:
+          <!-- Habla tres veces -->
           <div id = "ProductionTrialImageDiv">
-           <center><img src="https://psyc241.ucsd.edu/Tim/Objects/obj1.jpg" height="120" width="120" id="ProductionTrialImage" /></center>
-           </div>
-           <p style="text-align:center;font-size:10pt" id = "ProductionTextSpanish">text</p>    
+           <center><img src="https://psyc241.ucsd.edu/Tim/Objects/obj1.jpg" height="200" width="200" id="ProductionTrialImage" /></center>
+           </div> 
           <p style="text-align:center;font-size:20pt;color:blue" id = "ProductionText">text</p>
         </p>
         </div>
@@ -182,7 +137,7 @@
 
       <div id = "productionButtondiv">
       <button id="productionButton">
-        Haga clic aquí para el siguiente.
+        Yeton
       </button>
       </div>
     </div>
@@ -191,13 +146,13 @@
     
     <div id="debriefing">
       <p>
-        Participant code (filled in by the experimenter): <input id="subjectid"> <br> <br>
+        Bene: <input id="subjectid"> <br> <br>
       </p>
 
       
       <div id = "doneWithDebriefingButtondiv">
       <button id="doneWithDebriefing">
-        Haga clic aquí para enviar
+        Na solawchho!
       </button>
     </div>
     </div>
@@ -209,50 +164,29 @@
     <div style="text-align:center;" id = "trialnumdiv">
         <p id = "trialnum">TrialNumber</p>
     </div>
-
-      <p style="text-align:center;" id = "prompt">¿Qué palabra escuchaste?
-      <button id = "play">Reproducir</button></p>
+    <p style="text-align:center;">
+      <span style="vertical-align: top;">Bi rzenago?</span>
+      <img src="image/play_sound.png" height="60" width="60" id="play" />
       <br>
+
+    </p>
       <div id ="buttonExpI">
       
-      <div class="checkboxgroup">
-      <label for="word1"><center><img src="https://psyc241.ucsd.edu/Tim/Objects/obj1.jpg" height="120" width="120" id="word1image" /></center></label>
+      <div class="checkboxgroup" style="display:inline-block; margin:0 30px; text-align:center;" id="checkbox1">
+      <label for="word1"><center><img src="image/cover_image.jpg" height="200" width="200" id="word1image" /></center></label>
       <label id = "word1labelzp" for="word1">word1</label>
-      <label id = "word1label" for="word1">word1</label>
+
       <input type="radio" id="word1" name="ExpI" value="1" /> 
       
       </div>
 
-      <div class="checkboxgroup">
-      <label for="word2"><center><img src="https://psyc241.ucsd.edu/Tim/Objects/obj1.jpg" height="120" width="120" id="word2image" /></center></label>
+      <div class="checkboxgroup" style="display:inline-block; margin:0 30px; text-align:center;" id="checkbox2">
+      <label for="word2"><center><img src="image/cover_image.jpg" height="200" width="200" id="word2image" /></center></label>
       <label id = "word2labelzp" for="word2">word2</label>
-      <label id = "word2label" for="word2">word2</label>
+
       <input type="radio" id="word2" name="ExpI" value="2" />
       </div>
 
-      <div class="checkboxgroup">
-      <label for="word3"><center><img src="https://psyc241.ucsd.edu/Tim/Objects/obj1.jpg" height="120" width="120" id="word3image" /></center></label>
-      <label id = "word3labelzp" for="word3">word3</label>
-      <label id = "word3label" for="word3">word3</label>
-      <input type="radio" id="word3" name="ExpI" value="3" />
-      </div>
-
-        
-      <div class="checkboxgroup">
-      <label for="word4"><center><img src="https://psyc241.ucsd.edu/Tim/Objects/obj1.jpg" height="120" width="120" id="word4image" /></center></label>
-      <label id = "word4labelzp" for="word4">word4</label>
-      <label id = "word4label" for="word4">word4</label>
-      <input type="radio" id="word4" name="ExpI" value="4" />
-      </div>
-
-      <div class="checkboxgroup">
-      <label for="word5"><center><img src="https://psyc241.ucsd.edu/Tim/Objects/obj1.jpg" height="120" width="120" id="word5image" /></center></label>
-      <label id = "word5labelzp" for="word5">word5</label>
-      <label id = "word5label" for="word5">word5</label>
-      <input type="radio" id="word5" name="ExpI" value="5" />
-      </div>
-        
-        
        </div>
 
 
@@ -267,7 +201,7 @@
       <div id = "submitbutton">
         <br>
         <br>
-        <button id="submit">Haga clic aquí para el siguiente.</button>
+        <button id="submit">Yeton</button>
     </div>
     </div>
 
@@ -288,37 +222,31 @@
     
     <div id="distraction">
       <p id = "distractionInstruction">
-        Presione la estrella blanca para que se vuelva azul.
+        Wleze xti.
+
+        <!--Descansa un poco.-->
+        
       </p>
-      <span id = "star1" style="margin-right: 10px; font-size: 200%;">
-        &#9733
-      </span>
-      <span id = "star2" style="margin-right: 10px; font-size: 200%;">
-        &#9733
-      </span>
-      <span id = "star3" style="margin-right: 10px; font-size: 200%;">
-        &#9733
-      </span>
-      <span id = "star4" style="margin-right: 10px; font-size: 200%;">
-        &#9733
-      </span>
-      <span id = "star5" style="margin-right: 10px; font-size: 200%;">
-        &#9733
-      </span>
-      
+
+      <div id = "submitbutton">
+        <br>
+        <br>
+        <button id="EndBreak">Yeton</button>
+    </div>
+
     </div>
     
     
     
     
     <div id="done">
-      Thank you for participating!
+      Chhoxkeno!
     </div>
     
     
     <audio controls id="sound">
     <!--having controls mean you can see it; if no controls, you cannot see it.-->
-    <source src = "https://cdn.glitch.com/72d33110-ec62-4749-8ea2-f76b016071de%2F35A.wav?v=1581534407853" type="audio/ogg">
+    <source src = "dissertation_sound/randomsound.wav" type="audio/ogg">
       Your browser does not support the audio element.
     </audio>
 
