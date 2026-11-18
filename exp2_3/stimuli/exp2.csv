@@ -1,0 +1,15 @@
+﻿sp0,zp0,pic0,tone0,phonation0,sp1,zp1,pic1,tone1,phonation1,path,length,glposition,f0_onset,f0_offset,seq,status
+carrizo,ya,image/carrizo.jpg,F,M,metal,yaa,image/metal.png,R,M,dissertation_sound/exp2/yaa_fierro_original_230_95_125_pitch_manipulated.wav,230,0,95,125,1,exp2
+verde,ya'a,image/green.png,H,R,plaza,ya'a,image/plaza.jpg,R,R,dissertation_sound/exp2/yaa_fierro_original_230_95_125_pitch_manipulated_gl_3_5.wav,230,3,95,125,2,exp2
+carrizo,ya,image/carrizo.jpg,F,M,metal,yaa,image/metal.png,R,M,dissertation_sound/exp2/yaa_fierro_original_230_100_120_pitch_manipulated.wav,230,0,100,120,3,exp2
+verde,ya'a,image/green.png,H,R,plaza,ya'a,image/plaza.jpg,R,R,dissertation_sound/exp2/yaa_fierro_original_230_100_120_pitch_manipulated_gl_3_5.wav,230,3,100,120,4,exp2
+carrizo,ya,image/carrizo.jpg,F,M,metal,yaa,image/metal.png,R,M,dissertation_sound/exp2/yaa_fierro_original_230_105_115_pitch_manipulated.wav,230,0,105,115,5,exp2
+verde,ya'a,image/green.png,H,R,plaza,ya'a,image/plaza.jpg,R,R,dissertation_sound/exp2/yaa_fierro_original_230_105_115_pitch_manipulated_gl_3_5.wav,230,3,105,115,6,exp2
+carrizo,ya,image/carrizo.jpg,F,M,metal,yaa,image/metal.png,R,M,dissertation_sound/exp2/yaa_fierro_original_230_110_110_pitch_manipulated.wav,230,0,110,110,7,exp2
+verde,ya'a,image/green.png,H,R,plaza,ya'a,image/plaza.jpg,R,R,dissertation_sound/exp2/yaa_fierro_original_230_110_110_pitch_manipulated_gl_3_5.wav,230,3,110,110,8,exp2
+carrizo,ya,image/carrizo.jpg,F,M,metal,yaa,image/metal.png,R,M,dissertation_sound/exp2/yaa_fierro_original_230_115_105_pitch_manipulated.wav,230,0,115,105,9,exp2
+verde,ya'a,image/green.png,H,R,plaza,ya'a,image/plaza.jpg,R,R,dissertation_sound/exp2/yaa_fierro_original_230_115_105_pitch_manipulated_gl_3_5.wav,230,3,115,105,10,exp2
+carrizo,ya,image/carrizo.jpg,F,M,metal,yaa,image/metal.png,R,M,dissertation_sound/exp2/yaa_fierro_original_230_120_100_pitch_manipulated.wav,230,0,120,100,11,exp2
+verde,ya'a,image/green.png,H,R,plaza,ya'a,image/plaza.jpg,R,R,dissertation_sound/exp2/yaa_fierro_original_230_120_100_pitch_manipulated_gl_3_5.wav,230,3,120,100,12,exp2
+carrizo,ya,image/carrizo.jpg,F,M,metal,yaa,image/metal.png,R,M,dissertation_sound/exp2/yaa_fierro_original_230_125_95_pitch_manipulated.wav,230,0,125,95,13,exp2
+verde,ya'a,image/green.png,H,R,plaza,ya'a,image/plaza.jpg,R,R,dissertation_sound/exp2/yaa_fierro_original_230_125_95_pitch_manipulated_gl_3_5.wav,230,3,125,95,14,exp2

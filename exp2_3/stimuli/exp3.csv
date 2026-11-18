@@ -1,0 +1,4 @@
+﻿sp0,zp0,pic0,tone0,phonation0,sp1,zp1,pic1,tone1,phonation1,path,length,glposition,f0_onset,f0_offset,seq,status
+agrietado,be,image/agrietado.jpg,F,M,viento,be',image/viento.png,F,C,dissertation_sound/exp3/gl_release.wav,181,6,125,98,1,exp3
+agrietado,be,image/agrietado.jpg,F,M,viento,be',image/viento.png,F,C,dissertation_sound/exp3/modal.wav,181,0,125,98,2,exp3
+agrietado,be,image/agrietado.jpg,F,M,viento,be',image/viento.png,F,C,dissertation_sound/exp3/gl.wav,181,5,125,98,3,exp3
